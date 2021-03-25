@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-weight: normal;
+  src: url("../fonts/Nunito/Nunito-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-weight: 800;
+  src: url("../fonts/Nunito/Nunito-ExtraBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Nunito";
+  font-weight: 500;
+  src: url("../fonts/Nunito/Nunito-SemiBold.ttf") format("truetype");
+}
