@@ -17,5 +17,5 @@ steps:
         args: ['bash', '-c', 'npm i @cloudflare/wrangler && ./node_modules/.bin/wrangler publish']
         env:
          - 'CF_API_TOKEN=${_CF_API_TOKEN}'
-         - 'CF_ACCOUNT_ID=${_CF_ACCOUNT_ID}'
+         - 'CF_industrial-balm-308708=${_CF_industrial-balm-308708}'
          - 'USER=root'
